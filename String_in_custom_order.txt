@@ -22,3 +22,6 @@ class Solution:
             result.append(key * value)
 
         return "".join(result)
+
+#time = O(n)
+#Space = O(1)
